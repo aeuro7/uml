@@ -1,3 +1,5 @@
+// Tibet Charoensripaiboon 6510450399
+
 public class Piece {
 
     private Square location ;
